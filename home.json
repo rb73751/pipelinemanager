@@ -1,0 +1,14 @@
+{
+    "iphone": [
+        "https://raw.githubusercontent.com/rb73751/pipelinemanager/master/appstore1.jpg",
+        "https://raw.githubusercontent.com/rb73751/pipelinemanager/master/appstore2.jpg",
+        "https://raw.githubusercontent.com/rb73751/pipelinemanager/master/appstore3.jpg",
+        "https://raw.githubusercontent.com/rb73751/pipelinemanager/master/appstore4.jpg"
+    ],
+    "iphonex": [
+        "https://raw.githubusercontent.com/rb73751/pipelinemanager/master/appstorex1.jpg",
+        "https://raw.githubusercontent.com/rb73751/pipelinemanager/master/appstorex2.jpg",
+        "https://raw.githubusercontent.com/rb73751/pipelinemanager/master/appstorex3.jpg"
+    ],
+    "name": "管道巡检系统管理端"
+}
